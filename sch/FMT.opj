@@ -1,0 +1,187 @@
+(ExpressProject "FMT"
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File "..\library\soar.olb"
+        (Type "Schematic Library")))
+    (NoModify)
+    (File ".\fmt.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (Board_sim_option "VHDL_flow"))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (PartMRUSelector
+    (IS42S16400J-7TLI
+      (FullPartName "IS42S16400J-7TLI.Normal")
+      (LibraryName "F:\019_FAMILY_TOOL\FAMILY-TOOL\LIBRARY\SOAR.OLB")
+      (DeviceIndex "0"))
+    (AT24C02
+      (FullPartName "AT24C02.Normal")
+      (LibraryName "F:\019_FAMILY_TOOL\FAMILY-TOOL\LIBRARY\SOAR.OLB")
+      (DeviceIndex "0"))
+    (R
+      (FullPartName "R.Normal")
+      (LibraryName
+         "C:\CADENCE\CADENCE\CADENCE_SPB_16.6\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (W25Q128JVSIQ
+      (FullPartName "W25Q128JVSIQ.Normal")
+      (LibraryName "F:\019_FAMILY_TOOL\FAMILY-TOOL\LIBRARY\SOAR.OLB")
+      (DeviceIndex "0"))
+    (CON5
+      (FullPartName "CON5.Normal")
+      (LibraryName
+         "C:\CADENCE\CADENCE\CADENCE_SPB_16.6\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    ("CAP NP"
+      (FullPartName "CAP NP.Normal")
+      (LibraryName
+         "C:\CADENCE\CADENCE\CADENCE_SPB_16.6\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (XL/SM
+      (FullPartName "XL/SM.Normal")
+      (LibraryName
+         "C:\CADENCE\CADENCE\CADENCE_SPB_16.6\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (ZTB
+      (FullPartName "ZTB.Normal")
+      (LibraryName
+         "C:\CADENCE\CADENCE\CADENCE_SPB_16.6\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (QZS32768
+      (FullPartName "QZS32768.Normal")
+      (LibraryName
+         "C:\CADENCE\CADENCE\CADENCE_SPB_16.6\TOOLS\CAPTURE\LIBRARY\PSPICE\XTAL.OLB")
+      (DeviceIndex "0"))
+    (RESISTOR
+      (FullPartName "RESISTOR.Normal")
+      (LibraryName
+         "C:\CADENCE\CADENCE\CADENCE_SPB_16.6\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (GND
+      (LibraryName
+         "C:\CADENCE\CADENCE\CADENCE_SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (VCC_BAR
+      (LibraryName
+         "C:\CADENCE\CADENCE\CADENCE_SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    ("SW PUSHBUTTON"
+      (FullPartName "SW PUSHBUTTON.Normal")
+      (LibraryName
+         "C:\CADENCE\CADENCE\CADENCE_SPB_16.6\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    ("SW KEY-SPST"
+      (FullPartName "SW KEY-SPST.Normal")
+      (LibraryName
+         "C:\CADENCE\CADENCE\CADENCE_SPB_16.6\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (stm32f4xxi2
+      (FullPartName "STM32F4xxI2_A.Normal")
+      (LibraryName "F:\019_FAMILY_TOOL\FAMILY-TOOL\LIBRARY\SOAR.OLB")
+      (DeviceIndex "3"))
+    (STM32F429IGTx
+      (FullPartName "STM32F429IGTx-2.Normal")
+      (LibraryName "F:\019_FAMILY_TOOL\FAMILY-TOOL\LIBRARY\SOAR.OLB")
+      (DeviceIndex "1"))
+    (LED
+      (FullPartName "LED.Normal")
+      (LibraryName
+         "C:\CADENCE\CADENCE\CADENCE_SPB_16.6\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    ("T POINT R"
+      (FullPartName "T POINT R.Normal")
+      (LibraryName
+         "C:\CADENCE\CADENCE\CADENCE_SPB_16.6\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (LD1086D2M33TR
+      (FullPartName "LD1086D2M33TR.Normal")
+      (LibraryName "F:\019_FAMILY_TOOL\FAMILY-TOOL\LIBRARY\SOAR.OLB")
+      (DeviceIndex "0"))
+    ("CAP POL"
+      (FullPartName "CAP POL.Normal")
+      (LibraryName
+         "C:\CADENCE\CADENCE\CADENCE_SPB_16.6\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (GND_POWER
+      (LibraryName
+         "C:\CADENCE\CADENCE\CADENCE_SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (P1602AB/TO
+      (FullPartName "P1602AB/TO.Normal")
+      (LibraryName
+         "C:\CADENCE\CADENCE\CADENCE_SPB_16.6\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (VCC
+      (LibraryName
+         "C:\CADENCE\CADENCE\CADENCE_SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    ("4 HEADER"
+      (FullPartName "4 HEADER.Normal")
+      (LibraryName
+         "C:\CADENCE\CADENCE\CADENCE_SPB_16.6\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (STM32F429IGT6
+      (FullPartName "STM32F429IGT6.Normal")
+      (LibraryName "F:\019_FAMILY_TOOL\FAMILY-TOOL\LIBRARY\SOAR.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\fmt.dsn")
+      (Path "Design Resources" ".\fmt.dsn" "SCHEMATIC1")
+      (Path "Design Resources" "Library")
+      (Path "Design Resources" "Library" "..\library\soar.olb")
+      (Select "Design Resources" "Library" "..\library\soar.olb"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 0 384 0 370"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 0 488 -8 -31 272 1458 29 281")
+        (Scroll "910 74")
+        (Zoom "176")
+        (Occurrence "/"))
+      (Path "F:\019_FAMILY_TOOL\FAMILY-TOOL\SCH\FMT.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "Power"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 156 998 156 513")
+        (Scroll "0 825")
+        (Zoom "148")
+        (Occurrence "/"))
+      (Path "F:\019_FAMILY_TOOL\FAMILY-TOOL\SCH\FMT.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "CPU"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 52 894 52 409")
+        (Scroll "0 144")
+        (Zoom "86")
+        (Occurrence "/"))
+      (Path "F:\019_FAMILY_TOOL\FAMILY-TOOL\SCH\FMT.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "RESET&BOOT"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 0 1160 0 261")
+        (Scroll "-310 0")
+        (Zoom "43")
+        (Occurrence "/"))
+      (Path "F:\019_FAMILY_TOOL\FAMILY-TOOL\SCH\FMT.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "SRAM")))
+  (LastUsedLibraryBrowseDirectory
+     "C:\Cadence\Cadence\Cadence_SPB_16.6\tools\capture\library\pspice")
+  (MPSSessionName "Administrator"))

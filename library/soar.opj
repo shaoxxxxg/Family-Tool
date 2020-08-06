@@ -1,0 +1,36 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (File ".\soar.olb"
+      (Type "Schematic Library"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (NoModify)
+    (File ".\stm32f429igtx.olb"
+      (Type "Schematic Library")))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\soar.olb")
+      (Path "Design Resources" ".\stm32f429igtx.olb"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 11 211 245 458"))
+      (Tab 0))
+    (Doc
+      (Type "COrPartDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 156 998 156 516")
+        (PackageScroll "0 0")
+        (PackageZoom "1")
+        (PartPackage "Part")
+        (Scroll "738 279")
+        (Zoom "285"))
+      (Path "F:\019_FAMILY_TOOL\FAMILY-TOOL\LIBRARY\SOAR.OLB")
+      (Package "LD1086D2M33TR")))
+  (MPSSessionName "Administrator"))
